@@ -2,8 +2,8 @@
 CRUD operations 
 An API with complex validation for managing dishes and orders for a food delivery app.
 
-## Routes for managing dishes (CRUD - Create, Read, Update, and List)
-## Routes for managing orders (CRUDL - Create, Read, Update, Delete, and List)
+ Routes for managing dishes (CRUD - Create, Read, Update, and List)
+ Routes for managing orders (CRUDL - Create, Read, Update, Delete, and List)
 
 Middleware functions for validation and error handling
 RESTful design principles
