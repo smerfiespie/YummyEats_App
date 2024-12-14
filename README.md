@@ -11,17 +11,17 @@ RESTful design principles
 ## Use Node.js version 18 (node -v).
 
 ## Dishes:
-GET /dishes: Lists all dishes.
-POST /dishes: Creates a new dish.
-GET /dishes/:dishId: Retrieves a specific dish by ID.
-PUT /dishes/:dishId: Updates a dish by ID.
+- GET /dishes: Lists all dishes.
+- POST /dishes: Creates a new dish.
+- GET /dishes/:dishId: Retrieves a specific dish by ID.
+- PUT /dishes/:dishId: Updates a dish by ID.
 
 ## Orders:
-GET /orders: Lists all orders.
-POST /orders: Creates a new order.
-GET /orders/:orderId: Retrieves a specific order by ID.
-PUT /orders/:orderId: Updates an order by ID.
-DELETE /orders/:orderId: Deletes an order by ID (only allowed for pending orders).
+- GET /orders: Lists all orders.
+- POST /orders: Creates a new order.
+- GET /orders/:orderId: Retrieves a specific order by ID.
+- PUT /orders/:orderId: Updates an order by ID.
+- DELETE /orders/:orderId: Deletes an order by ID (only allowed for pending orders).
 
 ## Error Handling:
 Error handing with status codes and messages 
